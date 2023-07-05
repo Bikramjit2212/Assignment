@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Webpage Title</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #87CEEB;
+            text-align: center;
+            padding: 20px;
+        }
+
+        main {
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Website Header</h1>
+    </header>
+
+    <main>
+        <!-- The main content goes here -->
+        <h2>Welcome to My Website</h2>
+        <p>This is the main content of my webpage.</p>
+    </main>
+</body>
+</html>
